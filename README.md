@@ -21,7 +21,7 @@
 
 ## Interface
 
-![App Interface](./assets/app-interface.png)
+![App Interface](./assets/images/interface.png)
 
 ## Get started
 
